@@ -1,3 +1,6 @@
+### In this fork:
+Updated according to [preparing-custom-rules-eslint-v9](https://eslint.org/blog/2023/09/preparing-custom-rules-eslint-v9/)
+
 # eslint-plugin-no-floating-promise
 
 Detects missing await on async function calls
