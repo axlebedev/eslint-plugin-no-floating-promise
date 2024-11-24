@@ -1,5 +1,5 @@
 {
-  "name": "eslint-plugin-no-floating-promise",
+  "name": "eslint-plugin-no-floating-promise-v9",
   "version": "2.0.0",
   "description": "Detects missing await on async function calls",
   "keywords": [
@@ -9,7 +9,7 @@
     "Flow",
     "async"
   ],
-  "author": "Sebastien Guillemot",
+  "author": "Alex Lebedev",
   "main": "lib/index.js",
   "files": [
     "lib"
@@ -30,6 +30,6 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SebastienGllmt/eslint-plugin-no-floating-promise.git"
+    "url": "git+https://github.com/axlebedev/eslint-plugin-no-floating-promise.git"
   }
 }
